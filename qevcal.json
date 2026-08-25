@@ -1,7 +1,7 @@
 {
   "version": 2,
   "minorVersion": 4,
-  "updateAt": "2026-08-19 04:30:57",
+  "updateAt": "2026-08-26 04:35:39",
   "events": [
     {
       "eventName": "VRC養命酒を飲む会",
@@ -196,6 +196,21 @@
       "groupId": "grp_5b1b6359-2d7e-4f2c-8d17-6215f202fa1e",
       "information": "",
       "note": "土日祝のいずれか開催。詳細はグループポストなどを確認。",
+      "specialFlag": ""
+    },
+    {
+      "eventName": "ガンナガン初心者体験会【VRカードゲーム】",
+      "dayOfWeek": 1,
+      "biweekly": 0,
+      "dateInMonth": "",
+      "startTime": 1900,
+      "endTime": 2100,
+      "organizer": "ガンナガン同好会",
+      "joinMethod": 3,
+      "platform": 5,
+      "groupId": "grp_f8a5d514-061e-4758-ae57-82cda23b1f47",
+      "information": "VRChat上で遊べる人気カードゲーム『ガンナガン』の初心者体験会です。\n ガンナガンを初めて触る方に向けてゲームの遊び方をレクチャーします。 \nVR単機勢、デスクトップ勢、無言勢も大歓迎！",
+      "note": "デスクトップ,VR単機の方でも遊べますが、スマホでのプレイは出来ません。",
       "specialFlag": ""
     },
     {
@@ -436,6 +451,51 @@
       "groupId": "grp_3e1dd1c4-c555-4477-a39d-96f0bb0469ca",
       "information": "Androidユーザーや初心者と会いたい人が集まって雑談するイベントです\nグループ+で開きますのでグループに加入してインスタンスにお入りください\n詳細は公式X(@suiQ_21)をご確認ください",
       "note": "Android対応アバターの着用を推奨します",
+      "specialFlag": ""
+    },
+    {
+      "eventName": "【初心者大歓迎】ガンナガン ミニ大会&初心者対戦会",
+      "dayOfWeek": 1,
+      "biweekly": 0,
+      "dateInMonth": "",
+      "startTime": 2100,
+      "endTime": 2300,
+      "organizer": "ガンナガン同好会",
+      "joinMethod": 3,
+      "platform": 5,
+      "groupId": "grp_f8a5d514-061e-4758-ae57-82cda23b1f47",
+      "information": "VRChat上で遊べる人気カードゲーム 『ガンナガン』のミニ大会です。\n腕を試したいプレイヤーから、まだまだルールが曖昧な初心者まで大歓迎。 \nまた、初参加限定の超初心者限定の対戦会も同時開催！\nVR単機勢、デスクトップ勢、無言勢の方も是非遊びに来てください。",
+      "note": "デスクトップ,VR単機の方でも遊べますが、スマホでのプレイは出来ません。",
+      "specialFlag": ""
+    },
+    {
+      "eventName": "火曜はガンナガンの日",
+      "dayOfWeek": 4,
+      "biweekly": 0,
+      "dateInMonth": "",
+      "startTime": 2100,
+      "endTime": 2200,
+      "organizer": "ガンナガン同好会",
+      "joinMethod": 2,
+      "platform": 5,
+      "groupId": "grp_f8a5d514-061e-4758-ae57-82cda23b1f47",
+      "information": "VRChatで遊べるカードゲーム『ガンナガン』のカジュアルフリー対戦会です。\n Group Publicにてどなたでも参加できます。 \n途中入退場、出入り自由！1戦だけでも軽く遊んでいきませんか?",
+      "note": "デスクトップ,VR単機の方でも遊べますが、スマホでのプレイは出来ません。",
+      "specialFlag": ""
+    },
+    {
+      "eventName": "VSガンナガン同好会(ジムチャレンジ)",
+      "dayOfWeek": 32,
+      "biweekly": 0,
+      "dateInMonth": "",
+      "startTime": 2100,
+      "endTime": 2300,
+      "organizer": "ガンナガン同好会",
+      "joinMethod": 3,
+      "platform": 5,
+      "groupId": "grp_f8a5d514-061e-4758-ae57-82cda23b1f47",
+      "information": "ガンナガンジムリーダーたちと、6つのルールで対決！\n見事ジムリーダーに勝利すると、オリジナルバッジをプレゼント！\n目指せジムバッジコンプリート！",
+      "note": "デスクトップ,VR単機の方でも遊べますが、スマホでのプレイは出来ません。",
       "specialFlag": ""
     },
     {
